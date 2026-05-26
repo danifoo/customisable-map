@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "70908750602",
+    "firebase_url": "https://customisablemap-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "customisablemap",
+    "storage_bucket": "customisablemap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70908750602:android:2135a83e62e46daf0fe8f3",
+        "android_client_info": {
+          "package_name": "com.example.customisablemap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGgpQQeESvVctVwSEtCv9_Ue4a05Zmd9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
